@@ -3,7 +3,7 @@
     "lookersandbox",
     "aabrahamian"
   ],
-  "message": "We require contributors to sign our Contributor License Agreement, and we don\"t have {{usersWithoutCLA}} on file. In order for us to review and merge your code, please follow TBD process to get yourself added.",
+  "message": "We require contributors to sign our Contributor License Agreement, and we don\"t have {{usersWithoutCLA}} on file. In order for us to review and merge your code, please follow TBD INSTRUCTIONS HERE to get yourself added.",
   "label": "Looker-OS-Approved",
   "recheckComment": "The cla-bot has re-checked this pull request!"
 }
